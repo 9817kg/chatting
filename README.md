@@ -13,4 +13,9 @@
 - **language**: Java
 
 [포트폴리오 보러가기 💨](https://github.com/9817kg/portfolio)
-![채팅프로그램 view](https://github.com/9817kg/chatting/blob/main/assets/137484097/b8206792-7e00-44ca-a26e-18edbf2321a3.png)
+
+
+![채팅프로그램 view💨](https://github.com/9817kg/chatting/blob/main/assets/137484097/b8206792-7e00-44ca-a26e-18edbf2321a3.png)
+
+
+[ppt 보러가기 💨]([https://github.com/9817kg/portfolio](https://docs.google.com/presentation/d/13BepA_d7lHwMD-8gbg_K65ro6FtMsWjkcf3Hipvt10c/edit?pli=1#slide=id.p1)https://docs.google.com/presentation/d/13BepA_d7lHwMD-8gbg_K65ro6FtMsWjkcf3Hipvt10c/edit?pli=1#slide=id.p1)
